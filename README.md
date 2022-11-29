@@ -1,5 +1,5 @@
 # React-Native
-mobile apapplication project using react native
+mobile application project using react native
 
 ![IMG-20221102-WA0001](https://user-images.githubusercontent.com/97569773/199385810-3c8ba347-cab8-41f2-b477-615fd23d1512.jpg)
 ![IMG-20221102-WA0002](https://user-images.githubusercontent.com/97569773/199385894-3221e1ca-108e-4fe5-85c1-6011cea1c3a5.jpg)
